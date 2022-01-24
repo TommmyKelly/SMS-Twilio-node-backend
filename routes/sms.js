@@ -13,8 +13,8 @@ router.post("/", (req, res) => {
   client.messages
     .create({
       body: msg,
-      from: process.env.FROM_NUMBER,
-      to: process.env.TO_NUMBER,
+      from: `whatsapp:${process.env.FROM_NUMBER_WHATSAPP}`,
+      to: `whatsapp:${process.env.TO_NUMBER}`,
     })
     .then((message) => {
       console.log(message.status);
