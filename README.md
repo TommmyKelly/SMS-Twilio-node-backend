@@ -1,7 +1,7 @@
 # SMS-Twilio-node-backend
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=U-aeKXXWoujo8
-" target="_blank"><img src="http://img.youtube.com/vi/U-aeKXXWoujo8/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=aeKXXWoujo8
+" target="_blank"><img src="http://img.youtube.com/vi/aeKXXWoujo8/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 # Help support my youtube channel
